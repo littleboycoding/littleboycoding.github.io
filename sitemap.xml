@@ -4,39 +4,41 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
       xmlns:xhtml="http://www.w3.org/1999/xhtml">
-      <url><loc>https://littleboycoding.github.io/article/compentition-result</loc>
-                
-                
-                
-                <lastmod>2021-04-15</lastmod>
-                </url><url><loc>https://littleboycoding.github.io/article/docker</loc>
-                
-                
-                
-                <lastmod>2021-04-15</lastmod>
-                </url><url><loc>https://littleboycoding.github.io/article/html6</loc>
-                
-                
-                
-                <lastmod>2021-04-15</lastmod>
-                </url><url><loc>https://littleboycoding.github.io/article/next-js</loc>
-                
-                
-                
-                <lastmod>2021-04-15</lastmod>
-                </url><url><loc>https://littleboycoding.github.io/article/typescript</loc>
-                
-                
-                
-                <lastmod>2021-04-15</lastmod>
-                </url><url><loc>https://littleboycoding.github.io/article/what-is-vue</loc>
-                
-                
-                
-                <lastmod>2021-04-15</lastmod>
-                </url><url><loc>https://littleboycoding.github.io/index</loc>
-                
-                <priority>0.7</priority>
-                <changefreq>daily</changefreq>
-                <lastmod>2021-04-15</lastmod>
-                </url></urlset>
+      
+	<url>
+		<loc>https://littleboycoding.github.io/article/competition</loc>
+		<lastmod>2021-06-13</lastmod>
+	</url>
+
+	<url>
+		<loc>https://littleboycoding.github.io/article/docker</loc>
+		<lastmod>2021-06-13</lastmod>
+	</url>
+
+	<url>
+		<loc>https://littleboycoding.github.io/article/html6</loc>
+		<lastmod>2021-06-13</lastmod>
+	</url>
+
+	<url>
+		<loc>https://littleboycoding.github.io/article/next-js</loc>
+		<lastmod>2021-06-13</lastmod>
+	</url>
+
+	<url>
+		<loc>https://littleboycoding.github.io/article/typescript</loc>
+		<lastmod>2021-06-13</lastmod>
+	</url>
+
+	<url>
+		<loc>https://littleboycoding.github.io/article/what-is-vue</loc>
+		<lastmod>2021-06-13</lastmod>
+	</url>
+
+	<url>
+		<loc>https://littleboycoding.github.io/index</loc>
+		<priority>0.7</priority>
+		<changefreq>daily</changefreq>
+		<lastmod>2021-06-13</lastmod>
+	</url>
+</urlset>
